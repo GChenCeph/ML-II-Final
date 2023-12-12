@@ -1,0 +1,1670 @@
+{
+    "International airport": {
+        "score_correlation": -0.021898782994151704,
+        "score_p_value": 0.6556716916275949,
+        "revenue_correlation": 0.03957307861895774,
+        "revenue_p_value": 0.4202456354907328
+    },
+    "Airport": {
+        "score_correlation": -0.06566339603735746,
+        "score_p_value": 0.18079729616246762,
+        "revenue_correlation": -0.011914745170148124,
+        "revenue_p_value": 0.8083274833393737
+    },
+    "Regional airport": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Airport shuttle service": {
+        "score_correlation": -0.023758029298034455,
+        "score_p_value": 0.6285528901575166,
+        "revenue_correlation": 0.12847624491198312,
+        "revenue_p_value": 0.008624837305685834
+    },
+    "Limousine service": {
+        "score_correlation": 0.04539445789832522,
+        "score_p_value": 0.35513486120645,
+        "revenue_correlation": 0.09480962211118912,
+        "revenue_p_value": 0.053037494448153054
+    },
+    "Transportation service": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Aircraft supply store": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Arena": {
+        "score_correlation": 0.21744707013987352,
+        "score_p_value": 7.436627706574274e-06,
+        "revenue_correlation": 0.29890388508579807,
+        "revenue_p_value": 4.711518143261116e-10
+    },
+    "Stadium": {
+        "score_correlation": 0.17322637473892877,
+        "score_p_value": 0.00037990143073490747,
+        "revenue_correlation": 0.2343984972350593,
+        "revenue_p_value": 1.2998710043283615e-06
+    },
+    "Airsoft supply store": {
+        "score_correlation": -0.011269036923151832,
+        "score_p_value": 0.8185294605134803,
+        "revenue_correlation": -0.014705757358307307,
+        "revenue_p_value": 0.7646235475986088
+    },
+    "Adventure sports center": {
+        "score_correlation": -0.08080228387872755,
+        "score_p_value": 0.09939954462244863,
+        "revenue_correlation": -0.0623363502063721,
+        "revenue_p_value": 0.20395678625549055
+    },
+    "Gym": {
+        "score_correlation": 0.2959685796311493,
+        "score_p_value": 7.07727181882625e-10,
+        "revenue_correlation": 0.3676895577373397,
+        "revenue_p_value": 8.535109205364198e-15
+    },
+    "Sports school": {
+        "score_correlation": -0.06979281029733238,
+        "score_p_value": 0.15483280352576217,
+        "revenue_correlation": -0.0773861430213346,
+        "revenue_p_value": 0.1145901578512552
+    },
+    "Park": {
+        "score_correlation": 0.15460715629375948,
+        "score_p_value": 0.0015415174582372475,
+        "revenue_correlation": 0.2094443096188215,
+        "revenue_p_value": 1.61745011732005e-05
+    },
+    "Cultural center": {
+        "score_correlation": 0.015747756725942946,
+        "score_p_value": 0.7484886174112444,
+        "revenue_correlation": 0.0005766963669924435,
+        "revenue_p_value": 0.9906321536171072
+    },
+    "Auditorium": {
+        "score_correlation": 0.14523558360934255,
+        "score_p_value": 0.0029522301795653527,
+        "revenue_correlation": 0.1669636459536896,
+        "revenue_p_value": 0.0006186136390389595
+    },
+    "Public university": {
+        "score_correlation": 0.22143894869272665,
+        "score_p_value": 4.991748102907635e-06,
+        "revenue_correlation": 0.2979203835640464,
+        "revenue_p_value": 5.402442356747193e-10
+    },
+    "University department": {
+        "score_correlation": 0.10577852394075613,
+        "score_p_value": 0.03080079839463631,
+        "revenue_correlation": 0.15446168763458556,
+        "revenue_p_value": 0.0015575796558941104
+    },
+    "Live music venue": {
+        "score_correlation": 0.21690306383553448,
+        "score_p_value": 7.847309795227785e-06,
+        "revenue_correlation": 0.2871051755837037,
+        "revenue_p_value": 2.351799772442769e-09
+    },
+    "Catholic cathedral": {
+        "score_correlation": 0.20715755176729392,
+        "score_p_value": 2.0087151480476972e-05,
+        "revenue_correlation": 0.271509251411464,
+        "revenue_p_value": 1.76170567522362e-08
+    },
+    "University": {
+        "score_correlation": 0.2629402626676713,
+        "score_p_value": 5.052369919377362e-08,
+        "revenue_correlation": 0.47449438439580505,
+        "revenue_p_value": 8.436458854543729e-25
+    },
+    "Coffee shop": {
+        "score_correlation": 0.35527955658014504,
+        "score_p_value": 7.511362070667676e-14,
+        "revenue_correlation": 0.5470813370540806,
+        "revenue_p_value": 6.314956133561932e-34
+    },
+    "Cafe": {
+        "score_correlation": 0.29435276214146056,
+        "score_p_value": 8.836638745786709e-10,
+        "revenue_correlation": 0.4872982546590857,
+        "revenue_p_value": 2.958837797457603e-26
+    },
+    "Bakery": {
+        "score_correlation": 0.012754368694692956,
+        "score_p_value": 0.7951103643312973,
+        "revenue_correlation": 0.17273800871816425,
+        "revenue_p_value": 0.00039486262332628105
+    },
+    "Bubble tea store": {
+        "score_correlation": 0.06945749831307312,
+        "score_p_value": 0.15682966584653973,
+        "revenue_correlation": 0.13021354876490326,
+        "revenue_p_value": 0.007758599172286812
+    },
+    "Korean restaurant": {
+        "score_correlation": 0.05918103797142219,
+        "score_p_value": 0.22784040840394712,
+        "revenue_correlation": 0.040322253469011186,
+        "revenue_p_value": 0.41149470467698646
+    },
+    "Restaurant": {
+        "score_correlation": 0.20059293022755226,
+        "score_p_value": 3.692260593604065e-05,
+        "revenue_correlation": 0.44808838800380385,
+        "revenue_p_value": 5.497233854814695e-22
+    },
+    "Mediterranean restaurant": {
+        "score_correlation": -0.0036536089945276083,
+        "score_p_value": 0.9407039655750552,
+        "revenue_correlation": 0.03450681975546102,
+        "revenue_p_value": 0.48221571979435174
+    },
+    "Sandwich shop": {
+        "score_correlation": 0.23619127462720907,
+        "score_p_value": 1.0723803859373192e-06,
+        "revenue_correlation": 0.29414891105519064,
+        "revenue_p_value": 9.086754513603907e-10
+    },
+    "Deli": {
+        "score_correlation": 0.2133549896168847,
+        "score_p_value": 1.1105142617641957e-05,
+        "revenue_correlation": 0.2964156427215029,
+        "revenue_p_value": 6.653981796120028e-10
+    },
+    "Caterer": {
+        "score_correlation": 0.24931478207834634,
+        "score_p_value": 2.502224738111342e-07,
+        "revenue_correlation": 0.3611239143937534,
+        "revenue_p_value": 2.729144969466013e-14
+    },
+    "Dessert shop": {
+        "score_correlation": -0.0026625610335606047,
+        "score_p_value": 0.956769508355598,
+        "revenue_correlation": 0.08052810259509437,
+        "revenue_p_value": 0.10055641912275416
+    },
+    "Vegan restaurant": {
+        "score_correlation": 0.048695873018203426,
+        "score_p_value": 0.32119677282805276,
+        "revenue_correlation": 0.0007321206340632364,
+        "revenue_p_value": 0.9881076108738122
+    },
+    "American restaurant": {
+        "score_correlation": 0.21101056192577294,
+        "score_p_value": 1.3924847817797301e-05,
+        "revenue_correlation": 0.28173405817615405,
+        "revenue_p_value": 4.7724211150442455e-09
+    },
+    "Bar & grill": {
+        "score_correlation": 0.0033794043887499987,
+        "score_p_value": 0.9451468772261417,
+        "revenue_correlation": -0.06152020020589696,
+        "revenue_p_value": 0.20995296326743607
+    },
+    "Shisha bar": {
+        "score_correlation": 0.028665585403609223,
+        "score_p_value": 0.5594015351395185,
+        "revenue_correlation": 0.061895838967538606,
+        "revenue_p_value": 0.20717757274171186
+    },
+    "Chinese restaurant": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Breakfast restaurant": {
+        "score_correlation": 0.022254862701520384,
+        "score_p_value": 0.6504413671840742,
+        "revenue_correlation": 0.10514782501095447,
+        "revenue_p_value": 0.03181812989966882
+    },
+    "Catering food and drink supplier": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Greek restaurant": {
+        "score_correlation": 0.1294142218221422,
+        "score_p_value": 0.008147010208608634,
+        "revenue_correlation": 0.0853158861444451,
+        "revenue_p_value": 0.08183373901083059
+    },
+    "Brunch restaurant": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Vietnamese restaurant": {
+        "score_correlation": 0.0028570156262065884,
+        "score_p_value": 0.9536156850942378,
+        "revenue_correlation": 0.04358061738569896,
+        "revenue_p_value": 0.37470654564422756
+    },
+    "Donut shop": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Salvadoran restaurant": {
+        "score_correlation": 0.03530680058758628,
+        "score_p_value": 0.47211302868906313,
+        "revenue_correlation": 0.042462996775667707,
+        "revenue_p_value": 0.38709026098817256
+    },
+    "Fast food restaurant": {
+        "score_correlation": 0.02822723561702772,
+        "score_p_value": 0.5654260569886772,
+        "revenue_correlation": 0.04266522526481328,
+        "revenue_p_value": 0.38483123860429347
+    },
+    "Ice cream shop": {
+        "score_correlation": -0.0366737343080244,
+        "score_p_value": 0.4551226395842072,
+        "revenue_correlation": 0.00856843743930869,
+        "revenue_p_value": 0.8615114893743332
+    },
+    "Middle Eastern restaurant": {
+        "score_correlation": 0.010644147010947767,
+        "score_p_value": 0.8284317713713357,
+        "revenue_correlation": 0.07923849491407,
+        "revenue_p_value": 0.10614184842249182
+    },
+    "Hamburger restaurant": {
+        "score_correlation": 0.20080610112621183,
+        "score_p_value": 3.621097119122716e-05,
+        "revenue_correlation": 0.2985325011018286,
+        "revenue_p_value": 4.961678314987022e-10
+    },
+    "Bagel shop": {
+        "score_correlation": 0.12949178621858184,
+        "score_p_value": 0.008108574498943154,
+        "revenue_correlation": 0.17712827908836296,
+        "revenue_p_value": 0.0002779947807537553
+    },
+    "Coffee roasters": {
+        "score_correlation": 0.05918103797142219,
+        "score_p_value": 0.22784040840394712,
+        "revenue_correlation": -0.006924023322961518,
+        "revenue_p_value": 0.8878937821336953
+    },
+    "Art cafe": {
+        "score_correlation": -0.0789157006533383,
+        "score_p_value": 0.10757757466464879,
+        "revenue_correlation": -0.16055661815606312,
+        "revenue_p_value": 0.0010012077080818601
+    },
+    "Creperie": {
+        "score_correlation": 0.18581257738173218,
+        "score_p_value": 0.00013547013684560752,
+        "revenue_correlation": 0.21220799423254827,
+        "revenue_p_value": 1.24090056752992e-05
+    },
+    "West African restaurant": {
+        "score_correlation": -0.011269036923151832,
+        "score_p_value": 0.8185294605134803,
+        "revenue_correlation": -0.014705757358307307,
+        "revenue_p_value": 0.7646235475986088
+    },
+    "Seafood restaurant": {
+        "score_correlation": -0.09117995509864608,
+        "score_p_value": 0.06285230306122086,
+        "revenue_correlation": -0.14311022261995388,
+        "revenue_p_value": 0.003403716572121937
+    },
+    "Mexican restaurant": {
+        "score_correlation": -0.06979281029733238,
+        "score_p_value": 0.15483280352576217,
+        "revenue_correlation": -0.0773861430213346,
+        "revenue_p_value": 0.1145901578512552
+    },
+    "Karaoke bar": {
+        "score_correlation": 0.10168891157431326,
+        "score_p_value": 0.03792203609003128,
+        "revenue_correlation": -0.035122202013575576,
+        "revenue_p_value": 0.4744338984385449
+    },
+    "Soul food restaurant": {
+        "score_correlation": -0.1297639554063236,
+        "score_p_value": 0.007974981956444093,
+        "revenue_correlation": -0.11439384907238069,
+        "revenue_p_value": 0.019457301305119388
+    },
+    "Eclectic restaurant": {
+        "score_correlation": 0.033059752246104815,
+        "score_p_value": 0.5007839166477255,
+        "revenue_correlation": 0.04276602640652702,
+        "revenue_p_value": 0.38370823072159566
+    },
+    "Bar": {
+        "score_correlation": 0.12167822812132124,
+        "score_p_value": 0.012899688274258374,
+        "revenue_correlation": 0.17969589155674046,
+        "revenue_p_value": 0.00022553850454397177
+    },
+    "Chocolate shop": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Juice shop": {
+        "score_correlation": 0.11196799506977784,
+        "score_p_value": 0.02220849808568943,
+        "revenue_correlation": 0.025374640147667514,
+        "revenue_p_value": 0.6053707492240741
+    },
+    "Caribbean restaurant": {
+        "score_correlation": 0.048695873018203426,
+        "score_p_value": 0.32119677282805276,
+        "revenue_correlation": 0.0007321206340632364,
+        "revenue_p_value": 0.9881076108738122
+    },
+    "South American restaurant": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Guatemalan restaurant": {
+        "score_correlation": 0.1287245853532954,
+        "score_p_value": 0.008495956665080233,
+        "revenue_correlation": 0.1338728609131645,
+        "revenue_p_value": 0.006183486338798852
+    },
+    "Cafeteria": {
+        "score_correlation": 0.07173385059478239,
+        "score_p_value": 0.1436497075905714,
+        "revenue_correlation": 0.16729544759484866,
+        "revenue_p_value": 0.0006030925796999157
+    },
+    "Buffet restaurant": {
+        "score_correlation": -0.045916322564034454,
+        "score_p_value": 0.3496251236152145,
+        "revenue_correlation": -0.08064450693802237,
+        "revenue_p_value": 0.1000639657247709
+    },
+    "Family restaurant": {
+        "score_correlation": -0.07319873586715187,
+        "score_p_value": 0.13562679168337413,
+        "revenue_correlation": -0.07382091809219525,
+        "revenue_p_value": 0.13232540446527258
+    },
+    "Casino": {
+        "score_correlation": -0.02531567522845575,
+        "score_p_value": 0.6062095679750877,
+        "revenue_correlation": 0.05268959704884883,
+        "revenue_p_value": 0.2830611540881541
+    },
+    "Manufacturer": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Parking lot": {
+        "score_correlation": 0.07823323232418915,
+        "score_p_value": 0.11066348574098923,
+        "revenue_correlation": 0.16733186133510816,
+        "revenue_p_value": 0.0006014113842866161
+    },
+    "Event planner": {
+        "score_correlation": -0.028366515626780293,
+        "score_p_value": 0.5635084791293563,
+        "revenue_correlation": -0.03597194430643809,
+        "revenue_p_value": 0.46380241084791973
+    },
+    "Swedish restaurant": {
+        "score_correlation": 0.0028570156262065884,
+        "score_p_value": 0.9536156850942378,
+        "revenue_correlation": 0.0500973452190745,
+        "revenue_p_value": 0.30745022055283944
+    },
+    "Business park": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Airport parking lot": {
+        "score_correlation": 0.046126813555911056,
+        "score_p_value": 0.34741818720496886,
+        "revenue_correlation": 0.12435476553383124,
+        "revenue_p_value": 0.011033176226217009
+    },
+    "Architect": {
+        "score_correlation": 0.23053820216178844,
+        "score_p_value": 1.956844049839835e-06,
+        "revenue_correlation": 0.49440936704926314,
+        "revenue_p_value": 4.3265364069520045e-27
+    },
+    "Bouncy castle hire": {
+        "score_correlation": -0.10018019914404344,
+        "score_p_value": 0.04088018190641139,
+        "revenue_correlation": -0.06317096509791206,
+        "revenue_p_value": 0.19795437489341763
+    },
+    "Indoor playground": {
+        "score_correlation": 0.2271753166454389,
+        "score_p_value": 2.7786115938128204e-06,
+        "revenue_correlation": 0.30869602057380857,
+        "revenue_p_value": 1.172513659068273e-10
+    },
+    "Cathedral": {
+        "score_correlation": -0.03556378648832231,
+        "score_p_value": 0.4688924721999854,
+        "revenue_correlation": -0.08515055405235503,
+        "revenue_p_value": 0.08242963492459547
+    },
+    "College": {
+        "score_correlation": 0.18013467575496964,
+        "score_p_value": 0.00021755867839008173,
+        "revenue_correlation": 0.357042389521964,
+        "revenue_p_value": 5.5468368353411465e-14
+    },
+    "Community college": {
+        "score_correlation": 0.031989672062263115,
+        "score_p_value": 0.5147538145848056,
+        "revenue_correlation": 0.17865794687511552,
+        "revenue_p_value": 0.00024551747793781454
+    },
+    "Law school": {
+        "score_correlation": 0.20715755176729392,
+        "score_p_value": 2.0087151480476972e-05,
+        "revenue_correlation": 0.271509251411464,
+        "revenue_p_value": 1.76170567522362e-08
+    },
+    "Technical school": {
+        "score_correlation": 0.047242235342305816,
+        "score_p_value": 0.3358711438758841,
+        "revenue_correlation": 0.10183081389170903,
+        "revenue_p_value": 0.03765338447730544
+    },
+    "School": {
+        "score_correlation": 0.06370734964200303,
+        "score_p_value": 0.1941653706261938,
+        "revenue_correlation": 0.1486176120125648,
+        "revenue_p_value": 0.0023449591731498865
+    },
+    "Dental school": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Graduate school": {
+        "score_correlation": 0.09286597028535663,
+        "score_p_value": 0.05812146493180466,
+        "revenue_correlation": 0.0176160306569852,
+        "revenue_p_value": 0.719836329544393
+    },
+    "Private educational institution": {
+        "score_correlation": 0.022538073846303665,
+        "score_p_value": 0.6462935795963185,
+        "revenue_correlation": -0.09169472235179851,
+        "revenue_p_value": 0.06137538728542519
+    },
+    "Faculty of pharmacy": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Private university": {
+        "score_correlation": 0.1495810254925568,
+        "score_p_value": 0.0021941600002903625,
+        "revenue_correlation": 0.2629454215184683,
+        "revenue_p_value": 5.049222316897046e-08
+    },
+    "Business school": {
+        "score_correlation": 0.15547411132070163,
+        "score_p_value": 0.0014489018766216167,
+        "revenue_correlation": 0.2263126518301557,
+        "revenue_p_value": 3.0375045679549965e-06
+    },
+    "Trade school": {
+        "score_correlation": -0.015538900745909147,
+        "score_p_value": 0.7517141397339202,
+        "revenue_correlation": 0.06109582582415574,
+        "revenue_p_value": 0.21312058089646024
+    },
+    "Vocational school": {
+        "score_correlation": -0.0530060538691555,
+        "score_p_value": 0.28017582756768145,
+        "revenue_correlation": -0.04703875073856293,
+        "revenue_p_value": 0.3379590885704964
+    },
+    "Residential college": {
+        "score_correlation": 0.061773498369766075,
+        "score_p_value": 0.20807855278722776,
+        "revenue_correlation": 0.18200722377481623,
+        "revenue_p_value": 0.00018638174266437024
+    },
+    "Christian college": {
+        "score_correlation": 0.008235065443841724,
+        "score_p_value": 0.8668485235510389,
+        "revenue_correlation": -0.03604352293702772,
+        "revenue_p_value": 0.4629129377027036
+    },
+    "Teacher college": {
+        "score_correlation": 0.033059752246104815,
+        "score_p_value": 0.5007839166477255,
+        "revenue_correlation": 0.04276602640652702,
+        "revenue_p_value": 0.38370823072159566
+    },
+    "Government college": {
+        "score_correlation": -0.0021259005904037615,
+        "score_p_value": 0.9654768550400841,
+        "revenue_correlation": -0.05397976014166984,
+        "revenue_p_value": 0.2714231654832158
+    },
+    "Garden center": {
+        "score_correlation": 0.06684774778642946,
+        "score_p_value": 0.1730412600568263,
+        "revenue_correlation": 0.05257473037719585,
+        "revenue_p_value": 0.2841134071967575
+    },
+    "Garden": {
+        "score_correlation": 0.12043383615362405,
+        "score_p_value": 0.013858530175150279,
+        "revenue_correlation": 0.20750191706576132,
+        "revenue_p_value": 1.9445349779871873e-05
+    },
+    "Community garden": {
+        "score_correlation": -0.14129934851507353,
+        "score_p_value": 0.003836854424398812,
+        "revenue_correlation": -0.2610263705361303,
+        "revenue_p_value": 6.360700932427473e-08
+    },
+    "Garden centre": {
+        "score_correlation": 0.03688719750317747,
+        "score_p_value": 0.4525007076552291,
+        "revenue_correlation": 0.04074706149305946,
+        "revenue_p_value": 0.4065808634826187
+    },
+    "Park and Garden": {
+        "score_correlation": 0.055228182963740824,
+        "score_p_value": 0.26047673016976886,
+        "revenue_correlation": 0.017496088879399564,
+        "revenue_p_value": 0.7216645447346658
+    },
+    "Garden Furniture Shop": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Sports bar": {
+        "score_correlation": 0.01146324694402152,
+        "score_p_value": 0.8154577011792028,
+        "revenue_correlation": 0.03001694599659269,
+        "revenue_p_value": 0.541026689250926
+    },
+    "Nursery": {
+        "score_correlation": 0.09809841116436017,
+        "score_p_value": 0.04527997860458441,
+        "revenue_correlation": 0.07381713497503277,
+        "revenue_p_value": 0.13234528909069365
+    },
+    "Botanical garden": {
+        "score_correlation": -0.014764662063899717,
+        "score_p_value": 0.7637086382830247,
+        "revenue_correlation": -0.08547508402688284,
+        "revenue_p_value": 0.08126324738549819
+    },
+    "Beer garden": {
+        "score_correlation": 0.022538073846303665,
+        "score_p_value": 0.6462935795963185,
+        "revenue_correlation": -0.09169472235179851,
+        "revenue_p_value": 0.06137538728542519
+    },
+    "Market": {
+        "score_correlation": 0.01946888738556565,
+        "score_p_value": 0.691802505928107,
+        "revenue_correlation": 0.10520581368573985,
+        "revenue_p_value": 0.031723409641321094
+    },
+    "Plant nursery": {
+        "score_correlation": -0.012118569055697484,
+        "score_p_value": 0.8051137763420875,
+        "revenue_correlation": -0.030147385598793725,
+        "revenue_p_value": 0.5392690944134757
+    },
+    "Art museum": {
+        "score_correlation": 0.18462508075897416,
+        "score_p_value": 0.00014975399409392355,
+        "revenue_correlation": 0.27996217326627143,
+        "revenue_p_value": 6.007596239344334e-09
+    },
+    "Statuary": {
+        "score_correlation": -0.0563240223452156,
+        "score_p_value": 0.2511222575581562,
+        "revenue_correlation": -0.0676110512712713,
+        "revenue_p_value": 0.16817560213105445
+    },
+    "Mulch supplier": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Hydroponics equipment supplier": {
+        "score_correlation": -0.0326513121106707,
+        "score_p_value": 0.506092365729047,
+        "revenue_correlation": -0.03546682657003527,
+        "revenue_p_value": 0.47010615251379995
+    },
+    "Farm school": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Sculpture": {
+        "score_correlation": 0.11223718818393935,
+        "score_p_value": 0.02188743035569933,
+        "revenue_correlation": 0.1336684748659688,
+        "revenue_p_value": 0.00626324980154983
+    },
+    "Landscape designer": {
+        "score_correlation": 0.02716126848144288,
+        "score_p_value": 0.5802045684383856,
+        "revenue_correlation": 0.01528245372529975,
+        "revenue_p_value": 0.7556805600197182
+    },
+    "Garden machinery supplier": {
+        "score_correlation": -0.0563240223452156,
+        "score_p_value": 0.2511222575581562,
+        "revenue_correlation": -0.07412777910464684,
+        "revenue_p_value": 0.13072016352357174
+    },
+    "Landscaping supply store": {
+        "score_correlation": 0.02716126848144288,
+        "score_p_value": 0.5802045684383856,
+        "revenue_correlation": -0.0017300891009773306,
+        "revenue_p_value": 0.9719016067962598
+    },
+    "Landscaper": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Personal trainer": {
+        "score_correlation": 0.2581697072913028,
+        "score_p_value": 8.939339789485548e-08,
+        "revenue_correlation": 0.29104443260352947,
+        "revenue_p_value": 1.3862169556038352e-09
+    },
+    "Boxing Gym": {
+        "score_correlation": 0.027144968763442957,
+        "score_p_value": 0.5804319401969484,
+        "revenue_correlation": -0.02306179997299195,
+        "revenue_p_value": 0.638652177412731
+    },
+    "Boxing gym": {
+        "score_correlation": 0.0848118225510639,
+        "score_p_value": 0.0836614499820949,
+        "revenue_correlation": 0.08623883034356787,
+        "revenue_p_value": 0.07857090678454418
+    },
+    "Fitness centre": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Physical fitness program": {
+        "score_correlation": 0.057724504895719696,
+        "score_p_value": 0.23951082768838716,
+        "revenue_correlation": 0.09361900158294932,
+        "revenue_p_value": 0.05610584193825127
+    },
+    "Fitness center": {
+        "score_correlation": 0.06618849911461352,
+        "score_p_value": 0.17732736089091075,
+        "revenue_correlation": 0.08842043852599495,
+        "revenue_p_value": 0.07127666781781994
+    },
+    "Martial arts school": {
+        "score_correlation": 0.1514227615099417,
+        "score_p_value": 0.0019302687834875437,
+        "revenue_correlation": 0.1907346242780505,
+        "revenue_p_value": 8.882196680159533e-05
+    },
+    "Non-profit organization": {
+        "score_correlation": 0.22852796356897664,
+        "score_p_value": 2.4146715353795103e-06,
+        "revenue_correlation": 0.208012454720102,
+        "revenue_p_value": 1.8529550412422998e-05
+    },
+    "Indoor cycling": {
+        "score_correlation": 0.10893402359046772,
+        "score_p_value": 0.026118733522341175,
+        "revenue_correlation": 0.07698896499349121,
+        "revenue_p_value": 0.11646849895046542
+    },
+    "Club": {
+        "score_correlation": 0.00256015483996212,
+        "score_p_value": 0.9584306898071451,
+        "revenue_correlation": 0.05314037227087445,
+        "revenue_p_value": 0.2789572058618936
+    },
+    "Jujitsu school": {
+        "score_correlation": -0.020314764834452898,
+        "score_p_value": 0.6791402027509974,
+        "revenue_correlation": -0.06664777520067605,
+        "revenue_p_value": 0.1743331465956697
+    },
+    "Recreation center": {
+        "score_correlation": 0.13328650956490226,
+        "score_p_value": 0.006414792893528568,
+        "revenue_correlation": 0.24507671274394272,
+        "revenue_p_value": 4.039987935889609e-07
+    },
+    "Rock climbing gym": {
+        "score_correlation": 0.09885437745377491,
+        "score_p_value": 0.043638349065395925,
+        "revenue_correlation": 0.10843095923654204,
+        "revenue_p_value": 0.026821346953586567
+    },
+    "Gymnastics club": {
+        "score_correlation": -0.056118594091969676,
+        "score_p_value": 0.25285783645006715,
+        "revenue_correlation": -0.004700879085500433,
+        "revenue_p_value": 0.923753245771601
+    },
+    "Yoga studio": {
+        "score_correlation": 0.0028570156262065884,
+        "score_p_value": 0.9536156850942378,
+        "revenue_correlation": 0.022808547416814408,
+        "revenue_p_value": 0.6423425389418927
+    },
+    "Boxing club": {
+        "score_correlation": 0.0333736862724112,
+        "score_p_value": 0.49672382926531566,
+        "revenue_correlation": 0.036908567487516385,
+        "revenue_p_value": 0.45223869283129103
+    },
+    "Golf course": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Gay sauna": {
+        "score_correlation": 0.19251647535726357,
+        "score_p_value": 7.603396756715501e-05,
+        "revenue_correlation": 0.2574778393669504,
+        "revenue_p_value": 9.701464407068284e-08
+    },
+    "Pilates studio": {
+        "score_correlation": 0.08526589089757135,
+        "score_p_value": 0.08201356531217487,
+        "revenue_correlation": 0.1577460629086694,
+        "revenue_p_value": 0.0012299008542746858
+    },
+    "Sports complex": {
+        "score_correlation": -0.05184835328818063,
+        "score_p_value": 0.2908285401905392,
+        "revenue_correlation": -0.036300799396581464,
+        "revenue_p_value": 0.45972372466674116
+    },
+    "Training centre": {
+        "score_correlation": -0.05507918352802791,
+        "score_p_value": 0.2617669559094442,
+        "revenue_correlation": 0.043329702495604666,
+        "revenue_p_value": 0.37746533148475336
+    },
+    "Gymnastics center": {
+        "score_correlation": -0.06430264154071988,
+        "score_p_value": 0.1900226499688691,
+        "revenue_correlation": -0.06667119236898023,
+        "revenue_p_value": 0.17418149431978341
+    },
+    "Public library": {
+        "score_correlation": 0.08955654945435762,
+        "score_p_value": 0.06770284890675723,
+        "revenue_correlation": 0.1036912733030382,
+        "revenue_p_value": 0.03427778697623701
+    },
+    "Library": {
+        "score_correlation": 0.18656628261092778,
+        "score_p_value": 0.00012707857725921247,
+        "revenue_correlation": 0.27788495276092745,
+        "revenue_p_value": 7.852223700382177e-09
+    },
+    "Law library": {
+        "score_correlation": 0.18051194345204263,
+        "score_p_value": 0.00021090957379721244,
+        "revenue_correlation": 0.237086934440238,
+        "revenue_p_value": 9.73549059249088e-07
+    },
+    "University library": {
+        "score_correlation": 0.09868092356135708,
+        "score_p_value": 0.044010519382909646,
+        "revenue_correlation": 0.1469184054570598,
+        "revenue_p_value": 0.0026341578674597237
+    },
+    "Internet cafe": {
+        "score_correlation": 0.21690306383553448,
+        "score_p_value": 7.847309795227785e-06,
+        "revenue_correlation": 0.2871051755837037,
+        "revenue_p_value": 2.351799772442769e-09
+    },
+    "Book store": {
+        "score_correlation": 0.05822335743628447,
+        "score_p_value": 0.23546740398728014,
+        "revenue_correlation": 0.08909958870033252,
+        "revenue_p_value": 0.06912222748427299
+    },
+    "Clothes market": {
+        "score_correlation": -0.06778665989108938,
+        "score_p_value": 0.16707081171638058,
+        "revenue_correlation": -0.07200231494866104,
+        "revenue_p_value": 0.1421528485983588
+    },
+    "Produce wholesaler": {
+        "score_correlation": -0.10098396602390305,
+        "score_p_value": 0.03928084975373387,
+        "revenue_correlation": -0.05663616722399606,
+        "revenue_p_value": 0.2485009584612087
+    },
+    "Building materials market": {
+        "score_correlation": -0.05316673830410096,
+        "score_p_value": 0.2787184188978336,
+        "revenue_correlation": -0.09255976690228719,
+        "revenue_p_value": 0.05895804264160104
+    },
+    "Farmers' market": {
+        "score_correlation": 0.11858212072157318,
+        "score_p_value": 0.01540137112896218,
+        "revenue_correlation": 0.30497161479565715,
+        "revenue_p_value": 2.0022548518973808e-10
+    },
+    "Grocery store": {
+        "score_correlation": 0.06419819609407791,
+        "score_p_value": 0.190744769101239,
+        "revenue_correlation": 0.24837073413448071,
+        "revenue_p_value": 2.786119085665398e-07
+    },
+    "Fresh food market": {
+        "score_correlation": -0.0782524376214657,
+        "score_p_value": 0.11057570296574025,
+        "revenue_correlation": -0.0001696262463058919,
+        "revenue_p_value": 0.9972445363996552
+    },
+    "Butchers": {
+        "score_correlation": -0.1173209755130126,
+        "score_p_value": 0.016536539875705202,
+        "revenue_correlation": -0.0862733570601281,
+        "revenue_p_value": 0.07845092360798463
+    },
+    "Supermarket": {
+        "score_correlation": 0.1277153812928806,
+        "score_p_value": 0.009030608344011566,
+        "revenue_correlation": 0.17086305892276496,
+        "revenue_p_value": 0.00045754667703958084
+    },
+    "Produce market": {
+        "score_correlation": -0.056648018315569065,
+        "score_p_value": 0.24840181370637268,
+        "revenue_correlation": -0.12176064513967086,
+        "revenue_p_value": 0.01283829979038957
+    },
+    "Seafood market": {
+        "score_correlation": -0.14824735297184136,
+        "score_p_value": 0.002405387057824987,
+        "revenue_correlation": -0.09471776285852823,
+        "revenue_p_value": 0.05326914368912749
+    },
+    "Butcher shop": {
+        "score_correlation": 0.009642675744503212,
+        "score_p_value": 0.8443577479594202,
+        "revenue_correlation": -0.08011777550616139,
+        "revenue_p_value": 0.10230769022080687
+    },
+    "Catering supplier": {
+        "score_correlation": 0.0040452953057468115,
+        "score_p_value": 0.9343607305762878,
+        "revenue_correlation": 0.007497052770901765,
+        "revenue_p_value": 0.8786847459185354
+    },
+    "Flea market": {
+        "score_correlation": 0.0703747639160722,
+        "score_p_value": 0.15141289381239684,
+        "revenue_correlation": 0.1329772390306316,
+        "revenue_p_value": 0.00653989410406196
+    },
+    "African goods store": {
+        "score_correlation": -0.011269036923151832,
+        "score_p_value": 0.8185294605134803,
+        "revenue_correlation": -0.014705757358307307,
+        "revenue_p_value": 0.7646235475986088
+    },
+    "New American restaurant": {
+        "score_correlation": 0.21690306383553448,
+        "score_p_value": 7.847309795227785e-06,
+        "revenue_correlation": 0.2871051755837037,
+        "revenue_p_value": 2.351799772442769e-09
+    },
+    "Fish store": {
+        "score_correlation": -0.08806932649469693,
+        "score_p_value": 0.07241181029699413,
+        "revenue_correlation": -0.0774623118871593,
+        "revenue_p_value": 0.11423266805355031
+    },
+    "Asian grocery store": {
+        "score_correlation": 0.0040452953057468115,
+        "score_p_value": 0.9343607305762878,
+        "revenue_correlation": 0.0464240575428917,
+        "revenue_p_value": 0.3443167463081961
+    },
+    "Flower market": {
+        "score_correlation": -0.07122929821443406,
+        "score_p_value": 0.14649545655242652,
+        "revenue_correlation": 0.026732497884140966,
+        "revenue_p_value": 0.5861994665488184
+    },
+    "Food and beverage consultant": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Auto market": {
+        "score_correlation": 0.07555141456541017,
+        "score_p_value": 0.12346905112061723,
+        "revenue_correlation": 0.0625029188023445,
+        "revenue_p_value": 0.20274843270224044
+    },
+    "Truck stop": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Mexican grocery store": {
+        "score_correlation": -0.013227825895845625,
+        "score_p_value": 0.787682825990601,
+        "revenue_correlation": -0.04549385898402742,
+        "revenue_p_value": 0.3540812175076776
+    },
+    "Cajun restaurant": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Wholesale market": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Auto parts market": {
+        "score_correlation": -0.12245736922419027,
+        "score_p_value": 0.012329551998227264,
+        "revenue_correlation": -0.12596639660150424,
+        "revenue_p_value": 0.01002838384135409
+    },
+    "Gourmet grocery store": {
+        "score_correlation": 0.2068206594494108,
+        "score_p_value": 2.0734437241824448e-05,
+        "revenue_correlation": 0.26954304980067173,
+        "revenue_p_value": 2.250847060629733e-08
+    },
+    "Marina": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Market researcher": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Seafood wholesaler": {
+        "score_correlation": -0.03915267956633522,
+        "score_p_value": 0.4252035578900466,
+        "revenue_correlation": 0.05046093211183881,
+        "revenue_p_value": 0.3039482796249148
+    },
+    "Wholesale grocer": {
+        "score_correlation": -0.08313311899061393,
+        "score_p_value": 0.08998698007425504,
+        "revenue_correlation": -0.06109582582415574,
+        "revenue_p_value": 0.21312058089646024
+    },
+    "Historical place museum": {
+        "score_correlation": 0.19790182901568684,
+        "score_p_value": 4.712281452666041e-05,
+        "revenue_correlation": 0.26294787020821125,
+        "revenue_p_value": 5.047728945091542e-08
+    },
+    "Museum": {
+        "score_correlation": 0.1766420287968326,
+        "score_p_value": 0.0002891313899891026,
+        "revenue_correlation": 0.36445254229779434,
+        "revenue_p_value": 1.5189469554655556e-14
+    },
+    "Children's museum": {
+        "score_correlation": 0.048695873018203426,
+        "score_p_value": 0.32119677282805276,
+        "revenue_correlation": 0.0007321206340632364,
+        "revenue_p_value": 0.9881076108738122
+    },
+    "Community center": {
+        "score_correlation": 0.026189893314682716,
+        "score_p_value": 0.5938267103300245,
+        "revenue_correlation": 0.007909390138086567,
+        "revenue_p_value": 0.8720681883084563
+    },
+    "Art gallery": {
+        "score_correlation": -0.0026625610335606047,
+        "score_p_value": 0.956769508355598,
+        "revenue_correlation": 0.08052810259509437,
+        "revenue_p_value": 0.10055641912275416
+    },
+    "Heritage museum": {
+        "score_correlation": 0.04699227492437683,
+        "score_p_value": 0.33843713728516267,
+        "revenue_correlation": 0.11887316254167393,
+        "revenue_p_value": 0.015149319896868345
+    },
+    "Art studio": {
+        "score_correlation": 0.008379540276189826,
+        "score_p_value": 0.8645348330459467,
+        "revenue_correlation": -0.006055311853420656,
+        "revenue_p_value": 0.9018830633474353
+    },
+    "Maritime museum": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "History museum": {
+        "score_correlation": -0.04641549622381546,
+        "score_p_value": 0.3444058280477904,
+        "revenue_correlation": -0.06883008716754407,
+        "revenue_p_value": 0.1606182144108649
+    },
+    "Science museum": {
+        "score_correlation": 0.048695873018203426,
+        "score_p_value": 0.32119677282805276,
+        "revenue_correlation": 0.0007321206340632364,
+        "revenue_p_value": 0.9881076108738122
+    },
+    "Tourist attraction": {
+        "score_correlation": 0.13993815858902134,
+        "score_p_value": 0.004194639044567356,
+        "revenue_correlation": 0.20380346321217624,
+        "revenue_p_value": 2.7482333804399712e-05
+    },
+    "Technology museum": {
+        "score_correlation": 0.01632565605533535,
+        "score_p_value": 0.7395866607916064,
+        "revenue_correlation": 0.0438289238914257,
+        "revenue_p_value": 0.37198869977633187
+    },
+    "Ethnographic museum": {
+        "score_correlation": 0.09603772214186856,
+        "score_p_value": 0.050020228700459156,
+        "revenue_correlation": 0.16849745193798704,
+        "revenue_p_value": 0.0005498384067889956
+    },
+    "Toy museum": {
+        "score_correlation": 0.08366974333890724,
+        "score_p_value": 0.08792450526448102,
+        "revenue_correlation": -0.03339823014604967,
+        "revenue_p_value": 0.49640714352941506
+    },
+    "Museum of space history": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Local history museum": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Zoo": {
+        "score_correlation": 0.14666401751799596,
+        "score_p_value": 0.002680146038873231,
+        "revenue_correlation": 0.18995923505043,
+        "revenue_p_value": 9.499666399590203e-05
+    },
+    "Wildlife park": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Amusement park ride": {
+        "score_correlation": 0.13565197398517762,
+        "score_p_value": 0.005526750120892418,
+        "revenue_correlation": 0.21732129276334822,
+        "revenue_p_value": 7.5297188646799454e-06
+    },
+    "Corporate office": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Engineering school": {
+        "score_correlation": 0.09712461685169696,
+        "score_p_value": 0.047470790261505545,
+        "revenue_correlation": 0.22647223848513273,
+        "revenue_p_value": 2.9879352240563384e-06
+    },
+    "Language school": {
+        "score_correlation": 0.05479230542448882,
+        "score_p_value": 0.2642634862050905,
+        "revenue_correlation": 0.16831896596879276,
+        "revenue_p_value": 0.0005574600576502195
+    },
+    "Counselor": {
+        "score_correlation": -0.045916322564034454,
+        "score_p_value": 0.3496251236152145,
+        "revenue_correlation": -0.08064450693802237,
+        "revenue_p_value": 0.1000639657247709
+    },
+    "Research institute": {
+        "score_correlation": 0.06994051503809992,
+        "score_p_value": 0.15395931582807817,
+        "revenue_correlation": 0.20287405727927652,
+        "revenue_p_value": 2.9949166142642735e-05
+    },
+    "Student housing center": {
+        "score_correlation": 0.033059752246104815,
+        "score_p_value": 0.5007839166477255,
+        "revenue_correlation": 0.02077206996888455,
+        "revenue_p_value": 0.6723317145445813
+    },
+    "Industrial consultant": {
+        "score_correlation": 0.033059752246104815,
+        "score_p_value": 0.5007839166477255,
+        "revenue_correlation": 0.04276602640652702,
+        "revenue_p_value": 0.38370823072159566
+    },
+    "Athletic field": {
+        "score_correlation": -0.05186646481296805,
+        "score_p_value": 0.2906598223008009,
+        "revenue_correlation": -0.08016079501194964,
+        "revenue_p_value": 0.10212295635527831
+    },
+    "Soccer club": {
+        "score_correlation": 0.18520989511717678,
+        "score_p_value": 0.00014255161104342634,
+        "revenue_correlation": 0.25194846539535565,
+        "revenue_p_value": 1.8497739058354775e-07
+    },
+    "Medical spa": {
+        "score_correlation": 0.2971488821079406,
+        "score_p_value": 6.012456036477865e-10,
+        "revenue_correlation": 0.5281379553980726,
+        "revenue_p_value": 2.4980929260215317e-31
+    },
+    "Massage spa": {
+        "score_correlation": 0.04171308170538047,
+        "score_p_value": 0.395537405516714,
+        "revenue_correlation": 0.24765010744763283,
+        "revenue_p_value": 3.0234324018342334e-07
+    },
+    "Day spa": {
+        "score_correlation": 0.19442093898781138,
+        "score_p_value": 6.429423092080938e-05,
+        "revenue_correlation": 0.4504331397651338,
+        "revenue_p_value": 3.1627214501100475e-22
+    },
+    "Facial spa": {
+        "score_correlation": 0.18717555780290834,
+        "score_p_value": 0.00012065448640345224,
+        "revenue_correlation": 0.3544731177024293,
+        "revenue_p_value": 8.623479573956314e-14
+    },
+    "Hair salon": {
+        "score_correlation": 0.15637986895712705,
+        "score_p_value": 0.0013576222531179168,
+        "revenue_correlation": 0.24261625708686765,
+        "revenue_p_value": 5.31413519934448e-07
+    },
+    "Spa": {
+        "score_correlation": 0.19149611063951616,
+        "score_p_value": 8.312720754826797e-05,
+        "revenue_correlation": 0.43183517173317304,
+        "revenue_p_value": 2.2601391397322968e-20
+    },
+    "Massage therapist": {
+        "score_correlation": 0.03433611238685996,
+        "score_p_value": 0.48438658714627925,
+        "revenue_correlation": 0.21353421711254608,
+        "revenue_p_value": 1.0913568869447944e-05
+    },
+    "Health spa": {
+        "score_correlation": 0.009174361066716584,
+        "score_p_value": 0.8518273879689795,
+        "revenue_correlation": 0.18347495223040197,
+        "revenue_p_value": 0.0001649252528915866
+    },
+    "Nail salon": {
+        "score_correlation": 0.20888415114336617,
+        "score_p_value": 1.7059803401584745e-05,
+        "revenue_correlation": 0.3413773287848624,
+        "revenue_p_value": 7.687549334831301e-13
+    },
+    "Eyelash salon": {
+        "score_correlation": -0.02734572099369163,
+        "score_p_value": 0.5776344644053326,
+        "revenue_correlation": -0.032583639166877724,
+        "revenue_p_value": 0.5069747429600646
+    },
+    "Hairdresser": {
+        "score_correlation": 0.08290057626104287,
+        "score_p_value": 0.09089270753649992,
+        "revenue_correlation": 0.15908561300320304,
+        "revenue_p_value": 0.0011154933392997794
+    },
+    "Reflexologist": {
+        "score_correlation": -0.027956890852386347,
+        "score_p_value": 0.5691569988611651,
+        "revenue_correlation": 0.0239131675218935,
+        "revenue_p_value": 0.6263118210861058
+    },
+    "Wellness center": {
+        "score_correlation": 0.15308286252087264,
+        "score_p_value": 0.0017176310538998174,
+        "revenue_correlation": 0.2651391678634962,
+        "revenue_p_value": 3.869100651260353e-08
+    },
+    "Beauty salon": {
+        "score_correlation": 0.09878423078362784,
+        "score_p_value": 0.043788538659181066,
+        "revenue_correlation": 0.25586843455565456,
+        "revenue_p_value": 1.172445337327759e-07
+    },
+    "Laser hair removal service": {
+        "score_correlation": -0.02373690203261701,
+        "score_p_value": 0.6288583514293371,
+        "revenue_correlation": 0.0303199884843794,
+        "revenue_p_value": 0.536947764139722
+    },
+    "Waxing hair removal service": {
+        "score_correlation": -0.01522820901947657,
+        "score_p_value": 0.7565203799652752,
+        "revenue_correlation": 0.12291532884555487,
+        "revenue_p_value": 0.012004920600930755
+    },
+    "Spa and health club": {
+        "score_correlation": -0.0711058883651264,
+        "score_p_value": 0.1471980036754687,
+        "revenue_correlation": -0.06610290038585165,
+        "revenue_p_value": 0.17788960936810289
+    },
+    "Skin care clinic": {
+        "score_correlation": 0.08822857026910522,
+        "score_p_value": 0.0718951620089526,
+        "revenue_correlation": 0.21858419048329789,
+        "revenue_p_value": 6.643351018720551e-06
+    },
+    "Weight loss service": {
+        "score_correlation": -0.036584178963694064,
+        "score_p_value": 0.45622516559525605,
+        "revenue_correlation": 0.008681939296703666,
+        "revenue_p_value": 0.8596958343464998
+    },
+    "Women's health clinic": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Family practice physician": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Hot tub store": {
+        "score_correlation": 0.014447483234810043,
+        "score_p_value": 0.768638916992487,
+        "revenue_correlation": 0.016147498275788416,
+        "revenue_p_value": 0.7423273604989507
+    },
+    "Sports massage therapist": {
+        "score_correlation": -0.06658088923995892,
+        "score_p_value": 0.17476684878866872,
+        "revenue_correlation": 0.04164297168983786,
+        "revenue_p_value": 0.39633276705003295
+    },
+    "Dermatologist": {
+        "score_correlation": -0.05928900535459379,
+        "score_p_value": 0.22699168280408638,
+        "revenue_correlation": -0.025104124258025495,
+        "revenue_p_value": 0.6092232876265605
+    },
+    "Smart shop": {
+        "score_correlation": -0.13497162101385046,
+        "score_p_value": 0.005770100822771292,
+        "revenue_correlation": -0.15381468013336494,
+        "revenue_p_value": 0.0016308973276992905
+    },
+    "Thai massage therapist": {
+        "score_correlation": 0.060767688355604345,
+        "score_p_value": 0.21559332595465883,
+        "revenue_correlation": 0.119944098756014,
+        "revenue_p_value": 0.014252749889319816
+    },
+    "Foot care": {
+        "score_correlation": -0.027956890852386347,
+        "score_p_value": 0.5691569988611651,
+        "revenue_correlation": 0.0239131675218935,
+        "revenue_p_value": 0.6263118210861058
+    },
+    "Eyebrow bar": {
+        "score_correlation": 0.19682623769609137,
+        "score_p_value": 5.190137500284147e-05,
+        "revenue_correlation": 0.22266652671352397,
+        "revenue_p_value": 4.409277608755544e-06
+    },
+    "Party planner": {
+        "score_correlation": 0.08716192420655422,
+        "score_p_value": 0.07541385832566255,
+        "revenue_correlation": 0.07000868455054995,
+        "revenue_p_value": 0.15355743979966419
+    },
+    "Clinic": {
+        "score_correlation": -0.06658088923995892,
+        "score_p_value": 0.17476684878866872,
+        "revenue_correlation": 0.04164297168983786,
+        "revenue_p_value": 0.39633276705003295
+    },
+    "Beauty Salon": {
+        "score_correlation": -0.11538915982358194,
+        "score_p_value": 0.0184173637731704,
+        "revenue_correlation": -0.03488648253697439,
+        "revenue_p_value": 0.4774065423707774
+    },
+    "Lymph drainage therapist": {
+        "score_correlation": -0.08067709465790134,
+        "score_p_value": 0.09992644585877482,
+        "revenue_correlation": 0.0036593580556361785,
+        "revenue_p_value": 0.9406108332663012
+    },
+    "Foot massage parlor": {
+        "score_correlation": 0.033059752246104815,
+        "score_p_value": 0.5007839166477255,
+        "revenue_correlation": 0.04276602640652702,
+        "revenue_p_value": 0.38370823072159566
+    },
+    "Health and beauty shop": {
+        "score_correlation": -0.04227942479525817,
+        "score_p_value": 0.38914784040903905,
+        "revenue_correlation": 0.06900071233354453,
+        "revenue_p_value": 0.1595811579293903
+    },
+    "Hair removal service": {
+        "score_correlation": 0.03887732187981646,
+        "score_p_value": 0.42846931958202716,
+        "revenue_correlation": 0.11131686298421777,
+        "revenue_p_value": 0.023002028372244205
+    },
+    "Permanent make-up clinic": {
+        "score_correlation": -0.0563240223452156,
+        "score_p_value": 0.2511222575581562,
+        "revenue_correlation": -0.06475998284416949,
+        "revenue_p_value": 0.1868842868960723
+    },
+    "Physical therapy clinic": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Plastic surgery clinic": {
+        "score_correlation": -0.0326513121106707,
+        "score_p_value": 0.506092365729047,
+        "revenue_correlation": -0.03546682657003527,
+        "revenue_p_value": 0.47010615251379995
+    },
+    "Home Care Service": {
+        "score_correlation": -0.013480778406169307,
+        "score_p_value": 0.7837223627063306,
+        "revenue_correlation": -0.1306835331802877,
+        "revenue_p_value": 0.0075380207992294555
+    },
+    "Playground": {
+        "score_correlation": 0.31098295938125897,
+        "score_p_value": 8.409785874481474e-11,
+        "revenue_correlation": 0.439670380242048,
+        "revenue_p_value": 3.862905850942972e-21
+    },
+    "Amusement Centre": {
+        "score_correlation": -0.011269036923151832,
+        "score_p_value": 0.8185294605134803,
+        "revenue_correlation": -0.014705757358307307,
+        "revenue_p_value": 0.7646235475986088
+    },
+    "City park": {
+        "score_correlation": 0.13633040220710044,
+        "score_p_value": 0.0052933171085480825,
+        "revenue_correlation": 0.23268990956711003,
+        "revenue_p_value": 1.5592301230112356e-06
+    },
+    "Playground equipment supplier": {
+        "score_correlation": 0.012964263378868532,
+        "score_p_value": 0.7918152352725826,
+        "revenue_correlation": 0.020747378594977335,
+        "revenue_p_value": 0.6726986499204971
+    },
+    "Plastic surgeon": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Beauty school": {
+        "score_correlation": -0.0366737343080244,
+        "score_p_value": 0.4551226395842072,
+        "revenue_correlation": 0.00856843743930869,
+        "revenue_p_value": 0.8615114893743332
+    },
+    "Store equipment supplier": {
+        "score_correlation": 0.10100008892207343,
+        "score_p_value": 0.039249317920163264,
+        "revenue_correlation": 0.08849432111845384,
+        "revenue_p_value": 0.07103966643335544
+    },
+    "Sauna": {
+        "score_correlation": -0.045916322564034454,
+        "score_p_value": 0.3496251236152145,
+        "revenue_correlation": -0.01547722860426692,
+        "revenue_p_value": 0.7526674195893432
+    },
+    "Event venue": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Dog park": {
+        "score_correlation": 0.15445716598306505,
+        "score_p_value": 0.001558081374459229,
+        "revenue_correlation": 0.2535808834214211,
+        "revenue_p_value": 1.5312715105890223e-07
+    },
+    "Memorial park": {
+        "score_correlation": 0.028078862895348212,
+        "score_p_value": 0.567472251774795,
+        "revenue_correlation": 0.0046840094353813,
+        "revenue_p_value": 0.9240260391545643
+    },
+    "Visitor center": {
+        "score_correlation": 0.16202829444190234,
+        "score_p_value": 0.000897764874067896,
+        "revenue_correlation": 0.25947021215660365,
+        "revenue_p_value": 7.660148617300561e-08
+    },
+    "Government office": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Picnic ground": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Cemetery": {
+        "score_correlation": 0.11223718818393935,
+        "score_p_value": 0.02188743035569933,
+        "revenue_correlation": 0.1336684748659688,
+        "revenue_p_value": 0.00626324980154983
+    },
+    "Skateboard park": {
+        "score_correlation": 0.16202829444190234,
+        "score_p_value": 0.000897764874067896,
+        "revenue_correlation": 0.25947021215660365,
+        "revenue_p_value": 7.660148617300561e-08
+    },
+    "Funeral home": {
+        "score_correlation": -0.04265428254752061,
+        "score_p_value": 0.3849532698719039,
+        "revenue_correlation": -0.02062371785434699,
+        "revenue_p_value": 0.6745375236263247
+    },
+    "Conservation department": {
+        "score_correlation": 0.11240141956682213,
+        "score_p_value": 0.021693533790316306,
+        "revenue_correlation": 0.10121021240717383,
+        "revenue_p_value": 0.038840330133105797
+    },
+    "Religious destination": {
+        "score_correlation": 0.1846960719529173,
+        "score_p_value": 0.00014886183240806898,
+        "revenue_correlation": 0.24682092955937243,
+        "revenue_p_value": 3.320570493805126e-07
+    },
+    "City government office": {
+        "score_correlation": -0.05632037768732318,
+        "score_p_value": 0.2511529774238991,
+        "revenue_correlation": -0.040954226404831366,
+        "revenue_p_value": 0.4041972556717095
+    },
+    "Community centre": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Orchestra": {
+        "score_correlation": 0.22592676556271563,
+        "score_p_value": 3.1606339964645073e-06,
+        "revenue_correlation": 0.3482079418112308,
+        "revenue_p_value": 2.487440457570258e-13
+    },
+    "Musician": {
+        "score_correlation": 0.08999645832709258,
+        "score_p_value": 0.06635909213062459,
+        "revenue_correlation": 0.09405207116387015,
+        "revenue_p_value": 0.05497315773624986
+    },
+    "Archive": {
+        "score_correlation": 0.1127838071015132,
+        "score_p_value": 0.021247838383299,
+        "revenue_correlation": 0.21216244626211841,
+        "revenue_p_value": 1.2463675633686436e-05
+    },
+    "Architecture firm": {
+        "score_correlation": 0.0449943248968648,
+        "score_p_value": 0.35939615307051076,
+        "revenue_correlation": 0.131973820150253,
+        "revenue_p_value": 0.0069609735654934885
+    },
+    "Engineering consultant": {
+        "score_correlation": 0.025357850506584487,
+        "score_p_value": 0.6056095412862783,
+        "revenue_correlation": 0.08264264840338234,
+        "revenue_p_value": 0.09190583624971288
+    },
+    "Landscape architect": {
+        "score_correlation": 0.033059752246104815,
+        "score_p_value": 0.5007839166477255,
+        "revenue_correlation": 0.04276602640652702,
+        "revenue_p_value": 0.38370823072159566
+    },
+    "Interior designer": {
+        "score_correlation": 0.09871271645710517,
+        "score_p_value": 0.04394210399673919,
+        "revenue_correlation": 0.15988275522610956,
+        "revenue_p_value": 0.0010521502615765583
+    },
+    "Contractor": {
+        "score_correlation": -0.08022094045001599,
+        "score_p_value": 0.10186512405130468,
+        "revenue_correlation": 0.002983377076286892,
+        "revenue_p_value": 0.9515666367739173
+    },
+    "Engineer": {
+        "score_correlation": 0.11196799506977784,
+        "score_p_value": 0.02220849808568943,
+        "revenue_correlation": 0.025374640147667514,
+        "revenue_p_value": 0.6053707492240741
+    },
+    "Machine shop": {
+        "score_correlation": 0.06070935581553798,
+        "score_p_value": 0.21603504927579079,
+        "revenue_correlation": 0.056007228505837586,
+        "revenue_p_value": 0.2538021912713091
+    },
+    "Lawn care service": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Design": {
+        "score_correlation": 0.023503012082797137,
+        "score_p_value": 0.6322441886546788,
+        "revenue_correlation": 0.07189444036335939,
+        "revenue_p_value": 0.1427528771033844
+    },
+    "Nursing school": {
+        "score_correlation": 0.08308561385026797,
+        "score_p_value": 0.0901714164951973,
+        "revenue_correlation": 0.1087199141583906,
+        "revenue_p_value": 0.026415811577340145
+    },
+    "Architectural designer": {
+        "score_correlation": 0,
+        "score_p_value": 0,
+        "revenue_correlation": 0,
+        "revenue_p_value": 0
+    },
+    "Custom home builder": {
+        "score_correlation": 0.026691862968402782,
+        "score_p_value": 0.5867690893814909,
+        "revenue_correlation": 0.09263775430426308,
+        "revenue_p_value": 0.05874403373219407
+    }
+}
